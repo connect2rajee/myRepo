@@ -1,8 +1,1 @@
-class Hello
-{
-public static void main(String args[])
-{
-System.out.println("helloo");
-}
-}
-
+hi im in child now 
